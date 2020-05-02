@@ -1,0 +1,35 @@
+h1 { 
+	text-align: center; 
+	font-family: Helvetica; }
+
+    .text { 
+	margin-top: 50px; 
+	padding: 5px; } 
+
+	h2 { 
+	float: right; 
+    color: white;}
+
+	#Chicken {background-color: red;} 
+
+	#Beef {background-color: blue;}
+
+	#Sushi {background-color: green;} 
+
+	header { 
+	margin-bottom: 100px; }
+
+    body { 
+    margin-left: 160px;
+     }
+
+	span { 
+	display: inline; 
+	border: 2px solid black; 
+	float: left;
+	width: 500px; 
+    height: 150px;
+    background-color: gray; 
+    font-family: Helvetica; 
+    color: white;
+    margin: 10px;}  
